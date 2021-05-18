@@ -1,0 +1,238 @@
+Summary Report - kol - Thu Mar 25 20:45:54 WIB 2021
+Add To Cart         : 0
+Remove From Cart    : 0
+Wishlist            : 0
+Remove Wishlist     : 0
+Payment Verified    : 0
+Follow Shop         : 0
+Unfollow Shop       : 0
+Like Channel        : 0
+Unlike Channel      : 0
+Visit Shop          : 0
+Visit PDP           : 0
+Visit Channel       : 2
+
+Summary Report - kol - Thu Mar 25 20:50:56 WIB 2021
+Add To Cart         : 0
+Remove From Cart    : 0
+Wishlist            : 0
+Remove Wishlist     : 0
+Payment Verified    : 0
+Follow Shop         : 0
+Unfollow Shop       : 0
+Like Channel        : 0
+Unlike Channel      : 0
+Visit Shop          : 0
+Visit PDP           : 0
+Visit Channel       : 2
+
+Summary Report - kol - Thu Mar 25 20:55:57 WIB 2021
+Add To Cart         : 0
+Remove From Cart    : 0
+Wishlist            : 0
+Remove Wishlist     : 0
+Payment Verified    : 0
+Follow Shop         : 0
+Unfollow Shop       : 0
+Like Channel        : 0
+Unlike Channel      : 0
+Visit Shop          : 0
+Visit PDP           : 0
+Visit Channel       : 2
+
+Summary Report - kol - Thu Mar 25 21:00:58 WIB 2021
+Add To Cart         : 0
+Remove From Cart    : 0
+Wishlist            : 0
+Remove Wishlist     : 0
+Payment Verified    : 0
+Follow Shop         : 0
+Unfollow Shop       : 0
+Like Channel        : 591
+Unlike Channel      : 89
+Visit Shop          : 0
+Visit PDP           : 0
+Visit Channel       : 4255
+
+Summary Report - kol - Thu Mar 25 21:06:00 WIB 2021
+Add To Cart         : 25
+Remove From Cart    : 0
+Wishlist            : 0
+Remove Wishlist     : 0
+Payment Verified    : 0
+Follow Shop         : 0
+Unfollow Shop       : 0
+Like Channel        : 3244
+Unlike Channel      : 374
+Visit Shop          : 0
+Visit PDP           : 62
+Visit Channel       : 18323
+
+Summary Report - kol - Thu Mar 25 21:11:02 WIB 2021
+Add To Cart         : 33
+Remove From Cart    : 0
+Wishlist            : 0
+Remove Wishlist     : 0
+Payment Verified    : 0
+Follow Shop         : 0
+Unfollow Shop       : 0
+Like Channel        : 4339
+Unlike Channel      : 533
+Visit Shop          : 0
+Visit PDP           : 96
+Visit Channel       : 25216
+
+Summary Report - kol - Thu Mar 25 21:16:03 WIB 2021
+Add To Cart         : 48
+Remove From Cart    : 0
+Wishlist            : 0
+Remove Wishlist     : 0
+Payment Verified    : 0
+Follow Shop         : 0
+Unfollow Shop       : 0
+Like Channel        : 5402
+Unlike Channel      : 672
+Visit Shop          : 0
+Visit PDP           : 139
+Visit Channel       : 32772
+
+Summary Report - kol - Thu Mar 25 21:21:04 WIB 2021
+Add To Cart         : 61
+Remove From Cart    : 0
+Wishlist            : 1
+Remove Wishlist     : 0
+Payment Verified    : 0
+Follow Shop         : 0
+Unfollow Shop       : 0
+Like Channel        : 6213
+Unlike Channel      : 816
+Visit Shop          : 0
+Visit PDP           : 176
+Visit Channel       : 38440
+
+Summary Report - kol - Thu Mar 25 21:26:07 WIB 2021
+Add To Cart         : 67
+Remove From Cart    : 0
+Wishlist            : 18
+Remove Wishlist     : 17
+Payment Verified    : 0
+Follow Shop         : 0
+Unfollow Shop       : 0
+Like Channel        : 6710
+Unlike Channel      : 915
+Visit Shop          : 0
+Visit PDP           : 207
+Visit Channel       : 42304
+
+Summary Report - kol - Thu Mar 25 21:31:15 WIB 2021
+Add To Cart         : 69
+Remove From Cart    : 0
+Wishlist            : 22
+Remove Wishlist     : 18
+Payment Verified    : 0
+Follow Shop         : 0
+Unfollow Shop       : 0
+Like Channel        : 7045
+Unlike Channel      : 979
+Visit Shop          : 0
+Visit PDP           : 227
+Visit Channel       : 45275
+
+Summary Report - kol - Thu Mar 25 21:36:16 WIB 2021
+Add To Cart         : 75
+Remove From Cart    : 0
+Wishlist            : 23
+Remove Wishlist     : 18
+Payment Verified    : 0
+Follow Shop         : 0
+Unfollow Shop       : 0
+Like Channel        : 7302
+Unlike Channel      : 1038
+Visit Shop          : 0
+Visit PDP           : 249
+Visit Channel       : 47603
+
+Summary Report - hero - Thu Mar 25 21:37:38 WIB 2021
+Add To Cart         : 76
+Remove From Cart    : 0
+Wishlist            : 23
+Remove Wishlist     : 18
+Payment Verified    : 0
+Follow Shop         : 0
+Unfollow Shop       : 0
+Like Channel        : 7375
+Unlike Channel      : 1050
+Visit Shop          : 0
+Visit PDP           : 258
+Visit Channel       : 48107
+
+Summary Report - kol - Thu Mar 25 21:37:40 WIB 2021
+Add To Cart         : 9
+Remove From Cart    : 0
+Wishlist            : 1
+Remove Wishlist     : 0
+Payment Verified    : 0
+Follow Shop         : 0
+Unfollow Shop       : 0
+Like Channel        : 1151
+Unlike Channel      : 114
+Visit Shop          : 0
+Visit PDP           : 42
+Visit Channel       : 4974
+
+Summary Report - seller - Thu Mar 25 21:37:42 WIB 2021
+Add To Cart         : 7
+Remove From Cart    : 0
+Wishlist            : 2
+Remove Wishlist     : 0
+Payment Verified    : 0
+Follow Shop         : 0
+Unfollow Shop       : 0
+Like Channel        : 792
+Unlike Channel      : 62
+Visit Shop          : 0
+Visit PDP           : 27
+Visit Channel       : 3020
+
+Summary Report - hero - Fri Mar 26 11:41:31 WIB 2021
+Add To Cart         : 137
+Remove From Cart    : 
+Wishlist            : 46
+Remove Wishlist     : 21
+Payment Verified    : 
+Follow Shop         : 
+Unfollow Shop       : 
+Like Channel        : 11313
+Unlike Channel      : 1526
+Visit Shop          : 
+Visit PDP           : 580
+Visit Channel       : 81097
+
+Summary Report - kol - Fri Mar 26 11:41:32 WIB 2021
+Add To Cart         : 27
+Remove From Cart    : 
+Wishlist            : 12
+Remove Wishlist     : 
+Payment Verified    : 
+Follow Shop         : 
+Unfollow Shop       : 
+Like Channel        : 2860
+Unlike Channel      : 206
+Visit Shop          : 
+Visit PDP           : 176
+Visit Channel       : 14974
+
+Summary Report - seller - Fri Mar 26 11:41:32 WIB 2021
+Add To Cart         : 21
+Remove From Cart    : 
+Wishlist            : 7
+Remove Wishlist     : 
+Payment Verified    : 
+Follow Shop         : 
+Unfollow Shop       : 
+Like Channel        : 2239
+Unlike Channel      : 144
+Visit Shop          : 
+Visit PDP           : 122
+Visit Channel       : 11019
+
